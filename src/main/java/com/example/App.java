@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 // src/main/java/com/example/App.java
+=======
+>>>>>>> 397cccd (initial commit)
 package com.example;
 
 import org.springframework.boot.SpringApplication;
@@ -17,4 +20,7 @@ public class App {
         return "Hello from Jenkins CI/CD!";
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 397cccd (initial commit)
